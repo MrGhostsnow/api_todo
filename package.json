@@ -1,0 +1,22 @@
+{
+  "name": "api_todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrGhostsnow/api_todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrGhostsnow/api_todo/issues"
+  },
+  "homepage": "https://github.com/MrGhostsnow/api_todo#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

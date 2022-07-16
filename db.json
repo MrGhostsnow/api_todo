@@ -1,9 +1,9 @@
 {
   "tasks": [
     {
-      "id": 2,
       "task": "Eat",
-      "completed": false
+      "completed": false,
+      "id": 2
     },
     {
       "id": 3,
@@ -25,23 +25,6 @@
     {
       "task": "teste3",
       "id": 7
-    },
-    {
-      "task": "teste de edição 1",
-      "id": 8
-    },
-    {
-      "task": "",
-      "id": 9
-    },
-    {
-      "task": "",
-      "": "Teste4",
-      "id": 10
-    },
-    {
-      "task": "Teste5",
-      "id": 11
     }
   ]
 }
